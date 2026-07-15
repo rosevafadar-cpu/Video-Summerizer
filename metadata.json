@@ -1,0 +1,6 @@
+{
+  "name": "Video Summarizer & Transcriber",
+  "description": "Convert long videos and YouTube links into readable transcripts, interactive Q&A knowledge bases, and beautifully formatted summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
